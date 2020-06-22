@@ -1,0 +1,30 @@
+.navlist {
+    display: flex;
+    list-style: none;
+    padding: 20px 0 15px 45px;
+    margin: 0;
+}
+
+.navlist__item {
+    margin-right: 10px;
+}
+
+.navlist__item:last-child {
+    margin-right: 0;
+}
+
+.link {
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.title {
+    text-transform: uppercase;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 18px;
+    color: red
+}

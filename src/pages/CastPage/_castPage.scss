@@ -1,0 +1,19 @@
+.castlist {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px;
+    margin: 0;
+    padding: 0;
+}
+
+.castlist__item {
+    margin: 15px;
+    text-align: center;
+}
+
+.castimg {
+    width: 140px;
+    height: 210px;
+    object-fit: cover;
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["_reviewsPage.scss"],"names":[],"mappings":"AAAA,kBACI,SAAU,CACV,eAAgB,CAChB,aAAc,CACd,SAAU,CACb,aAGG,YAAa,CACb,kBAAmB","file":"ReviewsPage.d19dcc92.chunk.css","sourcesContent":[".reviewscontainer {\n    width: 95%;\n    list-style: none;\n    margin: 0 auto;\n    padding: 0;\n}\n\n.reviewsitem {\n    padding: 15px;\n    margin-bottom: 15px;\n}"]}
